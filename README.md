@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m passionate about building impactful software and hel
 
 ## 🛠️ Skills & Tech
 
-- **JavaScript** | **React** | **Node.js** | **Rust**
+- **Rust** | **JavaScript** | **Node.js** | **React**
 - Building scalable web applications & backend systems
 - Developer education and mentorship
 
