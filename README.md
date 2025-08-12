@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm AbuTuraab
 
-<!--
-**AbuTuraab/AbuTuraab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer & Developer Educator**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about building impactful software and helping others learn to code. I love sharing my knowledge through technical writing and hands-on tutorials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tech
+
+- **JavaScript** | **React** | **Node.js** | **Rust**
+- Building scalable web applications & backend systems
+- Developer education and mentorship
+
+---
+
+## ✍️ What I Enjoy
+
+- **Technical Writing**: I create articles and guides to make complex topics simple.
+- **Coding**: I’m always experimenting with new tech and working on open-source projects.
+
+---
+
+## 🌐 Connect With Me
+
+- [LinkedIn](https://linkedin.com/adenijialiyu)
+
+---
+
+> _"Code is a superpower—let's use it to build, teach, and inspire!"_
+
+---
+
+Feel free to check out my repositories or reach out for collaboration or mentorship!
