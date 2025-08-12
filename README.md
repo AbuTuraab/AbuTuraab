@@ -21,6 +21,12 @@ Welcome to my GitHub! I’m passionate about building impactful software and hel
 
 ---
 
+## 🚀 Favorite Project
+
+- [Polkadot](https://github.com/paritytech/polkadot): A scalable, interoperable blockchain platform.
+
+---
+
 ## 🌐 Connect With Me
 
 - [LinkedIn](https://linkedin.com/adenijialiyu)
