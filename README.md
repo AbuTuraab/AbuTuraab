@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m passionate about building impactful software and hel
 
 ## 🛠️ Skills & Tech
 
-- **Rust** | **JavaScript** | **Node.js** | **React**
+- **Rust** | **JavaScript** | **Node.js** | **React** | **AI Automation**
 - Building scalable web applications & backend systems
 - Developer education and mentorship
 
@@ -16,8 +16,9 @@ Welcome to my GitHub! I’m passionate about building impactful software and hel
 
 ## ✍️ What I Enjoy
 
-- **Technical Writing**: I create articles and guides to make complex topics simple.
 - **Coding**: I’m always experimenting with new tech and working on open-source projects.
+- **Technical Writing**: I create articles and guides to make complex topics simple.
+
 
 ---
 
